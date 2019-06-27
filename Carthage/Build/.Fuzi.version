@@ -1,0 +1,10 @@
+{
+  "commitish" : "2.2.1",
+  "iOS" : [
+    {
+      "name" : "Fuzi",
+      "hash" : "be7107faab481b762843464d92330fb11dd6a82eb321fc730ff3b77277a5f59f",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
